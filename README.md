@@ -21,3 +21,7 @@ and store it in our local system.
 <p align = "left">
 <img src = "images/GUI Screenshot_1.jpg">
 </p>
+
+##Contributors
+Himanshu Gurjar <himanshu.gurjar0013@gmail.com>
+
