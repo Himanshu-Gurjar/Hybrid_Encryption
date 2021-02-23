@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 from Cryptography.hybrid_encryption import *
+from getpass import getuser
 from tkinter.filedialog import askopenfilename
 from ttkthemes import themed_tk as tk
 
