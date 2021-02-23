@@ -1,4 +1,4 @@
-import generate_key_pair
+from Cryptography import generate_key_pair
 from Crypto.PublicKey import RSA
 from pathlib import Path
 from getpass import getuser

@@ -1,8 +1,7 @@
 from Crypto.Cipher import AES
 from Crypto import Random
-import AES_key
+from Cryptography import AES_key, RSA_keys
 import zlib
-import RSA_keys
 import pathlib
 import os
 from getpass import getuser

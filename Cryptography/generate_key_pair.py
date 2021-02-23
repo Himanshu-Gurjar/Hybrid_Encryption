@@ -1,5 +1,5 @@
 import random
-import cryptomath
+from Cryptography import cryptomath
 
 # Pre generated primes
 first_primes_list = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29,

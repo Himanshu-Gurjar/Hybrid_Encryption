@@ -1,5 +1,5 @@
-from RSA_keys import get_public_key, get_private_key
-import RSA_keys
+from Cryptography.RSA_keys import get_public_key, get_private_key
+from Cryptography import RSA_keys
 from Crypto.Cipher import AES, PKCS1_OAEP
 from Crypto.PublicKey import RSA
 import os
